@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I am Md. Rafiqul Islam, currently working on Laravel and Vue js based projects. I am an open source lover and always open to collaborate on projects and innovative ideas. Leave me a message on
 
- 🌱 I’m currently learning **Vue3**\n
+ 🌱 I’m currently learning **Vue3**
  🌱 I’m currently learning **Laravel**
 
 ### ⚡ Technologies
